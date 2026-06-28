@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.logo-main-crest{
+    height:85px;
+    width:80px;
+}
+#list-nav1{
+    font-family: 'Montserrat', sans-serif;
+    color: #C8102E;
+    font-weight: 600;
+}
+.banner-section-background-image{
+    background-image: url("https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/04/25/15878288379022.jpg");
+    background-size:cover;
+    width: 100%;
+    height: 100vh;
+}
+.main-heading{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-size:45px;
+    font-weight:300;
+}
+.banner-paragraph{
+    color:#f5f7fa;
+    font-family: 'Roboto', sans-serif;
+    font-size:24px;
+    font-weight:300;
+}
+.banner-buttton{
+    color:white;
+    width: 100%;
+    max-width: 300px;
+    height:45px;
+    background-color: rgb(232, 109, 109);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    text-align: center;
+}
+.banner-button-secondary{
+    color:rgb(232, 109, 109);
+    width: 100%;
+    max-width: 300px;
+    height:45px;
+    background-color: transparent;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-right: 10px;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(232, 109, 109);
+    border-radius: 8px;
+}
+.upd-heading{
+    color: #C8102E;
+    font-weight: 700;
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+}
+.upd-section{
+   background-color: #fff5f5;
+}
+.upd-paragraph {
+    color: #343a40; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    max-width: 800px;
+}
+.upd-cards{
+    background-color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.upd-card-heading{
+    font-weight: 500;
+    font-size:22px;
+    color:#343a40;
+    font-family: 'Montserrat', sans-serif;
+}
+.upd-card-paragraph{  
+    font-size:18px;
+    color:#7b8794;
+    font-family: 'Montserrat', sans-serif;
+}
+.Rumours-link{
+    color:  #0056D2;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+.Squad-section{
+    background-color: #fff5f5;
+}
+.squad-heading{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 28px;
+  color: #B31B1B;
+  font-weight: 700;
+}
+.squad-paragraph{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #2C2C2C;
+}
+.player1name{
+    color:#343a40;
+    font-size:14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.player1{
+    background-color: white;
+    text-align: center;
+}
+.unordered-list-players{
+    text-align: start;
+    color: #4b4b4b;
+}
+.player1name{
+    color: #4b4b4b;
+}
+.squad-image{
+    height:300px;
+}
+.player1name{
+    font-weight: bold;
+}
+.fanzone-img{
+    width:100%;
+}
+.fanzone-heading{
+     font-family: 'Bebas Neue', sans-serif;
+     color: #D50000;
+}
+.fanzone-para{
+    font-family: 'Open Sans', sans-serif;
+    color: #1A1A1A;
+}
+.fanzone-image{
+    background-color:white;
+}
+.fanzone-description{
+    background-color: white;
+}
+.fanzone-mainheading{
+ color: #B31B1B;
+ text-align: start;
+}
+.fanzone-sec{
+    background-color: #fff5f5;
+}
+
+
+.follow-us-section {
+  background-color: #031424;
+  padding: 40px 0;
+}
+
+
+.para1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  color: #f0f0f0;
+}
+
+
+.para1 {
+  font-family: 'Bebas Neue', sans-serif;
+  color: #f0e8e8;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.heading-atleti {
+  font-family: 'Bebas Neue', sans-serif;
+  color: #D50000;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+
+.icon {
+  font-size: 18px;
+  color: #D50000;
+  cursor: pointer;
+}
+
+.icon1 {
+  font-size: 18px;
+  color: #f8f0f0;
+  cursor: pointer;
+}
+.hori {
+  border-top: 1px solid #004080;
+  margin: 30px 0;
+}
+
+
+.logo img {
+  margin-bottom: 20px;
+  max-width: 80px;
+}
+.logo .icon {
+  font-size: 22px;
+  margin: 0 10px;
+  cursor: pointer;
+}
